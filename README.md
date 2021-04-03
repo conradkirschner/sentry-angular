@@ -1,6 +1,9 @@
 # BoilerplateV112
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+
+## Magic
+
+https://webpack.js.org/api/module-methods/#magic-comments  
 
 ## Development server
 
