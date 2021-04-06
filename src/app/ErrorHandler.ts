@@ -14,7 +14,6 @@ export class CustomErrorHandler implements ErrorHandler {
       });
       return;
     }
-    console.log(this.Sentry);
     this.Sentry.handleError(error);
   }
 }
